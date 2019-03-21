@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "133559582297",
+    "firebase_url": "https://location-based-message-b-bc9e1.firebaseio.com",
+    "project_id": "location-based-message-b-bc9e1",
+    "storage_bucket": "location-based-message-b-bc9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133559582297:android:3e4e0dc5be816297",
+        "android_client_info": {
+          "package_name": "com.example.kerenlev.locationbasedmessageboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133559582297-f9167bs19ecs812gs6kh8l6ka0l2v6it.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kerenlev.locationbasedmessageboard",
+            "certificate_hash": "7e55733fdb69cc73d1a106dd44d36fff15e3b61a"
+          }
+        },
+        {
+          "client_id": "133559582297-sooi2tqoiravfb5dqhs8ejqviu5cemgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6VAfHKOw2p_Qtr32RN2Rx7yob8JGamC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133559582297-sooi2tqoiravfb5dqhs8ejqviu5cemgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
