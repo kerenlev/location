@@ -38,7 +38,7 @@ public class SigninActivity extends AppCompatActivity implements LoaderCallbacks
     private static final int REQUEST_READ_CONTACTS = 0;
 
     private static final String[] DUMMY_CREDENTIALS = new String[]{
-            "s@example.com:yo", "k@example.com:mundo"
+          
     };
 
     private UserLoginTask mAuthTask = null;
